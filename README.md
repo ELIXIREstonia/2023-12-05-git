@@ -14,3 +14,9 @@ Let's make this project fly!!!
 * just in case `git pull` again
 * If something has happened, resolve conflicts again (my need new commit)
 * `git push`
+
+## changed from dev branch
+
+* change one
+* change two
+* etc..
