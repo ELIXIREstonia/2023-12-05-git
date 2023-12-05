@@ -4,4 +4,13 @@ Hi this is really not my repo, but I'm looking forward to be working on this cod
 
 Let's make this project fly!!!
 
-This is a new vanilla edit, I have no idea what will going to be happen next??
+#### TODO list
+
+* The first thing to do when I start working with the project is `git pull`
+* If there are, resolve all conflicts
+* make my edits
+* `git stage`
+* `git commit`
+* just in case `git pull` again
+* If something has happened, resolve conflicts again (my need new commit)
+* `git push`
